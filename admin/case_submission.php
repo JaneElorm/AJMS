@@ -34,7 +34,7 @@
                             <button type="button" id="deleteFile" class="btn btn-link p-0"><i class="fas fa-trash-alt"></i></button>
                         </div>
                         <div class="note text-center py-2 mb-3">
-                            <strong>NOTE: YOU WILL BE HELD ACCOUNTABLE FOR ANYTHING YOU SUBMIT HERE</strong>
+                            <strong>NOTE: YOU WILL BE HELD ACCOUNTABLE FOR ANYTHING YOU SUBMIT HERE.</strong>
                         </div>
                         <button type="submit" class="btn btn-success btn-block">Submit</button>
                     </form>
